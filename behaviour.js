@@ -1,3 +1,6 @@
+
+// this function catches the username and password from input fields and then it
+// show the alert with particular name and pass
 $(function () {
 
     $("#login").click(function(){
@@ -11,10 +14,3 @@ $(function () {
 })
 
 
-
-// window.onclick("#login", function loadtext() {
-//   var name = document.getElementsByClassName(".name");
-//   var pass = document.getElementsByClassName(".pass");
-
-//   alert("name is " + name + "and pass is " + pass);
-// })
